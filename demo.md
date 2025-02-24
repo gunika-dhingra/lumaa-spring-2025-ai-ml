@@ -52,7 +52,7 @@ streamlit sun recommend.py
 - View recommended news articles.
 
 # Video Demo
-The video demo of the project can be accessed [here.](https://www.loom.com/share/de186f6027874a4dbbfea15ecc492eb1?sid=c13a06ab-c079-4f3e-baf2-28a3a58e5dc5) 
+The video demo of the project can be accessed [here.](https://www.loom.com/share/2a56d0d161f5452482f3072dc12795c3?sid=70922871-4be5-4a94-987e-4a8ff396ed70) 
 
 Another example of the working can be accessed [here.](https://www.loom.com/share/d7a342e0631f42d29c8b92f8b1e11d40?sid=f8e7435d-f3f4-46fd-8042-4211ce51598c)
 
