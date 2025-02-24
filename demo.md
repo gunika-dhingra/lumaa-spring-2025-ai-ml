@@ -35,7 +35,7 @@ The system is built using the [AG News Classification Dataset](https://www.kaggl
 # Installation & Setup
 ### Cloning the repository
 ```
-git clone 
+gti clone https://github.com/gunika-dhingra/lumaa-spring-2025-ai-ml.git
 ```
 ### Prerequisites
 Ensure you have Python 3.x installed along with the necessary dependencies:
@@ -58,6 +58,8 @@ Another example of the working can be accessed [here.](https://www.loom.com/shar
 
 
 # Salary Expectation
+
 As a full-time student with a strong background in AI and ML, complemented by my undergraduate studies and internship experiences, I expect a compensation of around $35–$45 per hour for this internship. However, I am open to discussing this further based on the role’s responsibilities and the overall compensation structure
+
 ---
 Made with ❤️ by Gunika
