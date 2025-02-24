@@ -59,7 +59,7 @@ Another example of the working can be accessed [here.](https://www.loom.com/shar
 
 # Salary Expectation
 
-As a full-time student with a strong background in AI and ML, complemented by my undergraduate studies and internship experiences, I expect a compensation of around $35–$45 per hour for this internship. However, I am open to discussing this further based on the role’s responsibilities and the overall compensation structure
+As a full-time student with a strong background in AI and ML, complemented by my undergraduate studies and internship experiences, I expect a compensation of around $5500-6500 per month for this internship. However, I am open to discussing this further based on the role’s responsibilities and the overall compensation structure
 
 ---
 Made with ❤️ by Gunika
