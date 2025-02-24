@@ -35,7 +35,7 @@ The system is built using the [AG News Classification Dataset](https://www.kaggl
 # Installation & Setup
 ### Cloning the repository
 ```
-gti clone https://github.com/gunika-dhingra/lumaa-spring-2025-ai-ml.git
+git clone https://github.com/gunika-dhingra/lumaa-spring-2025-ai-ml.git
 ```
 ### Prerequisites
 Ensure you have Python 3.x installed along with the necessary dependencies:
