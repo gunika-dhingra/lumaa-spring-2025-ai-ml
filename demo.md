@@ -47,8 +47,8 @@ pip install requirements.txt
 streamlit sun recommend.py
 ```
 # Usage
-- Enter a query (e.g., "Latest AI advancements").
-- Select preferred categories (e.g., "Sci/Tech" and "Business").
+- Enter a query (e.g., "I like news about dolphins").
+- Select preferred categories (e.g., "Sci/Tech" and "Sports").
 - View recommended news articles.
 
 # Video Demo
