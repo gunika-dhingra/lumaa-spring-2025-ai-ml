@@ -1,0 +1,6 @@
+pandas
+re
+string
+nltk
+sklearn
+streamlit
